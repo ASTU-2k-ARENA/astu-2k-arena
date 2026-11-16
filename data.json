@@ -1,0 +1,229 @@
+{
+ "set": {
+  "discord": "https://discord.gg/vWE3Qk5HhE",
+  "site": "",
+  "deadline": "",
+  "team": 50,
+  "solo": 15,
+  "prize": [
+   300,
+   100,
+   50
+  ],
+  "email": "eufraciomart26@gmail.com"
+ },
+ "season": 3,
+ "rev": 0,
+ "T": [
+  {
+   "id": "s1-ng26",
+   "s": 1,
+   "name": "NBA 2K26 PS5",
+   "status": "Registration",
+   "pay": {
+    "team": "",
+    "solo": ""
+   },
+   "teams": [],
+   "solos": [],
+   "rr": [],
+   "de": null
+  },
+  {
+   "id": "s1-cg26",
+   "s": 1,
+   "name": "NBA 2K26 PS4",
+   "status": "Registration",
+   "pay": {
+    "team": "",
+    "solo": ""
+   },
+   "teams": [],
+   "solos": [],
+   "rr": [],
+   "de": null
+  },
+  {
+   "id": "s1-xs26",
+   "s": 1,
+   "name": "NBA 2K26 Xbox Series X|S",
+   "status": "Registration",
+   "pay": {
+    "team": "",
+    "solo": ""
+   },
+   "teams": [],
+   "solos": [],
+   "rr": [],
+   "de": null
+  },
+  {
+   "id": "s1-xo26",
+   "s": 1,
+   "name": "NBA 2K26 Xbox One",
+   "status": "Registration",
+   "pay": {
+    "team": "",
+    "solo": ""
+   },
+   "teams": [],
+   "solos": [],
+   "rr": [],
+   "de": null
+  },
+  {
+   "id": "s1-ps27",
+   "s": 1,
+   "name": "NBA 2K27 PS5",
+   "status": "Registration",
+   "pay": {
+    "team": "",
+    "solo": ""
+   },
+   "teams": [],
+   "solos": [],
+   "rr": [],
+   "de": null
+  },
+  {
+   "id": "s2-ng26",
+   "s": 2,
+   "name": "NBA 2K26 PS5",
+   "status": "Registration",
+   "pay": {
+    "team": "",
+    "solo": ""
+   },
+   "teams": [],
+   "solos": [],
+   "rr": [],
+   "de": null
+  },
+  {
+   "id": "s2-cg26",
+   "s": 2,
+   "name": "NBA 2K26 PS4",
+   "status": "Registration",
+   "pay": {
+    "team": "",
+    "solo": ""
+   },
+   "teams": [],
+   "solos": [],
+   "rr": [],
+   "de": null
+  },
+  {
+   "id": "s2-xs26",
+   "s": 2,
+   "name": "NBA 2K26 Xbox Series X|S",
+   "status": "Registration",
+   "pay": {
+    "team": "",
+    "solo": ""
+   },
+   "teams": [],
+   "solos": [],
+   "rr": [],
+   "de": null
+  },
+  {
+   "id": "s2-xo26",
+   "s": 2,
+   "name": "NBA 2K26 Xbox One",
+   "status": "Registration",
+   "pay": {
+    "team": "",
+    "solo": ""
+   },
+   "teams": [],
+   "solos": [],
+   "rr": [],
+   "de": null
+  },
+  {
+   "id": "s2-ps27",
+   "s": 2,
+   "name": "NBA 2K27 PS5",
+   "status": "Registration",
+   "pay": {
+    "team": "",
+    "solo": ""
+   },
+   "teams": [],
+   "solos": [],
+   "rr": [],
+   "de": null
+  },
+  {
+   "id": "s3-ng26",
+   "s": 3,
+   "name": "NBA 2K26 PS5",
+   "status": "Registration",
+   "pay": {
+    "team": "",
+    "solo": ""
+   },
+   "teams": [],
+   "solos": [],
+   "rr": [],
+   "de": null
+  },
+  {
+   "id": "s3-cg26",
+   "s": 3,
+   "name": "NBA 2K26 PS4",
+   "status": "Registration",
+   "pay": {
+    "team": "",
+    "solo": ""
+   },
+   "teams": [],
+   "solos": [],
+   "rr": [],
+   "de": null
+  },
+  {
+   "id": "s3-xs26",
+   "s": 3,
+   "name": "NBA 2K26 Xbox Series X|S",
+   "status": "Registration",
+   "pay": {
+    "team": "",
+    "solo": ""
+   },
+   "teams": [],
+   "solos": [],
+   "rr": [],
+   "de": null
+  },
+  {
+   "id": "s3-xo26",
+   "s": 3,
+   "name": "NBA 2K26 Xbox One",
+   "status": "Registration",
+   "pay": {
+    "team": "",
+    "solo": ""
+   },
+   "teams": [],
+   "solos": [],
+   "rr": [],
+   "de": null
+  },
+  {
+   "id": "s3-ps27",
+   "s": 3,
+   "name": "NBA 2K27 PS5",
+   "status": "Registration",
+   "pay": {
+    "team": "",
+    "solo": ""
+   },
+   "teams": [],
+   "solos": [],
+   "rr": [],
+   "de": null
+  }
+ ]
+}
